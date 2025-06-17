@@ -72,7 +72,7 @@
 
 > ESG Wargame 사이트
 
-![Wargame Site](demo.gif)
+![Wargame Site](취약한웹사이트.png)
 
 ---
 ## 모의해킹 결과 보고서
