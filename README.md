@@ -36,7 +36,11 @@
 | **Backbone SW / L3/L2 SW** | 네트워크 트래픽 분산 및 VLAN 분리 구현 |
 
 ---
+## 모의해킹 결과 보고서
 
+Wargame의 모의해킹결과 보고서는 [PDF 링크를 클릭하여 열 수 있습니다](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EA%B9%80%EC%A0%95%ED%98%84.pdf)
+
+---
 ## 🛠️ 사용 기술 스택
 
 - **네트워크**: VLAN, Routing, ACL, L2/L3 Switching, DMZ, VPN
@@ -75,6 +79,4 @@
 ![Wargame Site](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EC%B7%A8%EC%95%BD%ED%95%9C%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.PNG)
 
 ---
-## 모의해킹 결과 보고서
 
-Wargame의 모의해킹결과 보고서는 [PDF 링크를 클릭하여 열 수 있습니다](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EA%B9%80%EC%A0%95%ED%98%84.pdf)
