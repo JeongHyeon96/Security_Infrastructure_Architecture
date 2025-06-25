@@ -14,6 +14,12 @@
 
 ---
 
+## 모의해킹 결과 보고서
+![모의해킹결과 보고서](./보고서메인.PNG)
+Wargame의 모의해킹결과 보고서는 [PDF 링크를 클릭하여 열 수 있습니다](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EA%B9%80%EC%A0%95%ED%98%84.pdf)
+
+---
+
 ## ⚙️ 주요 구성 요소 및 역할
 
 | 구성 요소         | 설명 |
@@ -35,10 +41,7 @@
 | **Kali Linux**   | 취약 서버 대상 모의해킹 도구로 사용 |
 | **Backbone SW / L3/L2 SW** | 네트워크 트래픽 분산 및 VLAN 분리 구현 |
 
----
-## 모의해킹 결과 보고서
-![모의해킹결과 보고서](./보고서메인.PNG)
-Wargame의 모의해킹결과 보고서는 [PDF 링크를 클릭하여 열 수 있습니다](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EA%B9%80%EC%A0%95%ED%98%84.pdf)
+
 
 ---
 ## 🛠️ 사용 기술 스택
