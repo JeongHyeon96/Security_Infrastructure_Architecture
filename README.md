@@ -75,8 +75,3 @@ Wargame의 모의해킹결과 보고서는 [PDF 링크를 클릭하여 열 수 �
 
 ---
 
-
-![Wargame Site](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EC%B7%A8%EC%95%BD%ED%95%9C%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.PNG)
-
----
-
