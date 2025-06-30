@@ -14,7 +14,7 @@
 
 ---
 
-## 모의해킹 결과 보고서
+## 📝 모의해킹 결과 보고서
 [![모의해킹결과 보고서](./보고서메인.PNG)](https://github.com/JeongHyeon96/infra_web_vuln_analysis/blob/main/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EA%B9%80%EC%A0%95%ED%98%84.pdf)
 Wargame의 모의해킹결과 보고서는 [PDF 링크를 클릭하여 열 수 있습니다](https://github.com/JeongHyeon96/Security_Infrastructure_Architecture/blob/main/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EA%B9%80%EC%A0%95%ED%98%84.pdf)
 
